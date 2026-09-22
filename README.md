@@ -1,1 +1,0 @@
-# gighub-basic-kadai
